@@ -16,7 +16,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                 $controle_azul -> cor = "azul";
                 $controle_azul -> tamanho = 1.23;
                 $controle_azul -> ligado = false;
-                $controle_azul -> bateria = true;
+                $controle_azul -> bateria = false;
 
                 var_dump($controle_azul);
 
