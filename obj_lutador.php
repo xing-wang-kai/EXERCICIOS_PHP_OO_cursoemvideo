@@ -22,7 +22,7 @@
          $pettyboy ->Apresentar();
          
          $ufc01 = new Luta();
-         $ufc01 ->marcarLuta($putscript, $putscript);
+         $ufc01 ->marcarLuta($nerdaarts, $putscript);
          $ufc01 ->lutar();
          $pettyboy ->Status();
          $putscript ->Status();
