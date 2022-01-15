@@ -31,7 +31,7 @@ class Aluno extends Pessoa{
     }
     private function set_curso($curso){
         $this -> curso = $curso;
-    }
+    } 
          
 }
 
